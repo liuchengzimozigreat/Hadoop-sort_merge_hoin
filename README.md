@@ -2,7 +2,7 @@
 This's is a program for join action in Hadoop using sort_merge method.<br>
 The program is coding with Java.<br>
 
-To run it, you need to rename the *.java file as the class name in the code.
+To run it, you need to rename the *.java file as the class name in the code first.
 
 ###'join'<br>
 run the program with command:<br>
