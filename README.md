@@ -10,4 +10,3 @@ It means join the R and S table by the join key where R0=S0,  and result columns
 
 output of 'same join keys':<br>
 ![image text](https://github.com/liuchengzimozigreat/Hadoop-sort_merge_join/blob/master/same_key_join_output.png?raw=true)<br>
-![image text](https://github.com/liuchengzimozigreat/Hadoop-sort_merge_join/blob/master/same_key_join_output.png?raw=true)<br>
