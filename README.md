@@ -1,4 +1,4 @@
-# Hadoop-sort_merge_hoin
+# Hadoop-sort_merge_join
 This's is a program for join action in Hadoop using sort_merge method.<br>
 The program is coding with Java.<br>
 
